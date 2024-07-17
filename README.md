@@ -8,14 +8,3 @@ Twitter Sentiment Analysis Using NLP Models
 - Implemented models like CBOW (Continuous Bag of Words), Skip-Gram, CountVectorizer, and TF-IDF to predict the sentiment of the tweets.
 
 - Since the dataset is almost balanced, accuracy metrics have been used for model evaluation.
-
-  
-Sr No	Method	Train_accuracy	Test_accuracy
-0	CBOW+Log_Reg_10	0.688	0.688
-1	skip_gram	0.690	0.690
-2	Countvectorizer	0.756	0.732
-3	tfidf_vectorizer	0.754	0.731
-4	SentimentIntensityAnalyzer_overall_accuracy	0.615	-
-5	huggingface_overall_accuracy	0.750	-
-6	LSTM_accuracy	0.715	-
-
