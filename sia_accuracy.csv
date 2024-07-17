@@ -1,0 +1,8 @@
+,Method,Train_accuracy,Test_accuracy
+0,CBOW+Log_Reg_10,0.6875266666666666,0.68794
+1,skip_gram,0.6895733333333334,0.6895
+2,Countvectorizer,0.75584,0.73154
+3,tfidf_vectorizer,0.7542866666666667,0.73076
+4,SentimentIntensityAnalyzer_overall_accuracy,0.614575,-
+5,huggingface_overall_accuracy,0.75,-
+6,LSTM_accuracy,0.7146,-
